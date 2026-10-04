@@ -11,7 +11,7 @@
 
 # Hey there, I'm **Walid Salah**
 
-### ✦ Senior Frontend Developer · Vue & Nuxt Specialist ✦
+### ✦ Senior Frontend Developer · Vue & Nuxt & React Specialist ✦
 
 <img alt="Animated introduction" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+beautiful+web+experiences;Vue.js+%7C+Nuxt.js+%7C+React+%7C+TypeScript;Real-time+apps+%7C+Electron+%7C+Micro-frontends;Turning+complex+ideas+into+intuitive+UIs" />
 
