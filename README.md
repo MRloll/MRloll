@@ -15,6 +15,10 @@
 
 <img alt="Animated introduction" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+beautiful+web+experiences;Vue.js+%7C+Nuxt.js+%7C+React+%7C+TypeScript;Real-time+apps+%7C+Electron+%7C+Micro-frontends;Turning+complex+ideas+into+intuitive+UIs" />
 
+<p>
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=MRloll&label=Profile+views&color=00D9FF&style=for-the-badge" />
+</p>
+
 </div>
 
 ---
