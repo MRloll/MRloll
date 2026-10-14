@@ -30,7 +30,7 @@ const walid = {
   role:        "Senior Frontend Developer",
   location:    "Cairo, Egypt 🇪🇬",
   currentWork: "Wakeb Data",
-  experience:  "4+ years",
+  experience:  "5 years",
   coreStack:   ["Vue.js", "Nuxt.js", "React", "TypeScript"],
   focus:       ["Real-time apps", "Scalable dashboards",
                 "Electron", "Micro-frontends", "AI features"],
