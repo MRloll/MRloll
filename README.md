@@ -153,10 +153,10 @@ I build high-performance web applications, real-time chat and streaming experien
 
 ## GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 <img width="49%" alt="Walid Salah's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MRloll&show_icons=true&theme=tokyonight&hide_border=true" />
 <img width="49%" alt="Walid Salah's contribution streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MRloll&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 <p align="center">
 <img width="55%" alt="Most used languages in my public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRloll&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
