@@ -11,7 +11,7 @@
 
 # Hey there, I'm **Walid Salah**
 
-### ✦ Senior Frontend Developer · Vue & Nuxt & React Specialist ✦
+### ✦ Senior Frontend Developer · Vue & Nuxt & React, Next.js Specialist ✦
 
 <img alt="Animated introduction" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+beautiful+web+experiences;Vue.js+%7C+Nuxt.js+%7C+React+%7C+TypeScript;Real-time+apps+%7C+Electron+%7C+Micro-frontends;Turning+complex+ideas+into+intuitive+UIs" />
 
@@ -31,7 +31,7 @@ const walid = {
   location:    "Cairo, Egypt 🇪🇬",
   currentWork: "Wakeb Data",
   experience:  "5 years",
-  coreStack:   ["Vue.js", "Nuxt.js", "React", "TypeScript"],
+  coreStack:   ["Vue.js", "Nuxt.js", "React", "Next.js", "TypeScript"],
   focus:       ["Real-time apps", "Scalable dashboards",
                 "Electron", "Micro-frontends", "AI features"],
   portfolio:   "https://walid-salah.vercel.app",
