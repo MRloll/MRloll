@@ -64,7 +64,7 @@ I build high-performance web applications, real-time chat and streaming experien
 - **IBTDI** — Senior Frontend Developer · May 2024 – April 2025 · Part-time. Mentored junior developers, built responsive applications, and optimized Pinia state management and component architecture.
 - **Mazaady** — Mid-level Frontend Developer · February – July 2024. Worked on the Doworkss marketplace, payment and wallet functionality, and real-time chat.
 - **Elryad for Web Design** — Junior Frontend Developer · January 2023 – February 2024. Built LMS applications, exams, payments, chat, and notifications.
-- **Freelance** — Frontend Developer · January 2020 – January 2021. Delivered 4+ production-ready projects using HTML, CSS, Sass, and Bootstrap.
+- **Freelance** — Frontend Developer · October 2020 – October 2021. Delivered 4+ production-ready projects using HTML, CSS, Sass, and Bootstrap.
 
 **Education:** Bachelor's Degree in English Literature, Al-Azhar University · 2021.
 
